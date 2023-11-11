@@ -151,10 +151,10 @@ The random forest regressor and the randomized search cv were used to generate s
 Next, when evaluating the performance of the random forest regressor, you can look at the error rates before and after tuning using my selected hyperparameters. I evaluated the model using 5 evaluation metrics: Mean Absolute Error, Mean Squared Error, Root Mean Squared Error, Normalized Root Mean Squared Error and R-Squared Score.
 
 Before Tuning:\
-![Alt text](images/preTuningErrorRate.png)
+![Alt text](images/preTuningErrorRate.PNG)
 
 Post Tuning:\
-![Alt text](images/postTuningErrorRate.png)
+![Alt text](images/postTuningErrorRate.PNG)
 
 
 # Conclusion:
